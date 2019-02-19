@@ -1,1 +1,1 @@
-include ':app', ':video', ':library'
+include ':app', ':gank', ':library'
