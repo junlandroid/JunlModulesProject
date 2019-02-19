@@ -1,0 +1,12 @@
+ext {
+
+    version = [
+            retrofitSdkVersion: "2.5.0",
+    ]
+
+    dependencies = [
+            // network
+            "retrofit": "com.squareup.retrofit2:retrofit:${version["retrofitSdkVersion"]}",
+
+    ]
+}
